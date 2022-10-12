@@ -20,17 +20,21 @@
   <img align="center" alt="Desing-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
 </div>
 <span align="right">
-  
-  ![11_10_2022_19_29_18](https://user-images.githubusercontent.com/89273671/195215874-88876440-65a3-4c39-911d-c45be022e263.jpg)
+
+  ![valeria-ferreira](https://user-images.githubusercontent.com/89273671/195222481-6610aa8f-0b57-4196-94e7-6de05e7c4082.jpg)
   
 </span>
   
-##
+  <div align="right">
+     <a href="https://www.linkedin.com/in/valeria-nascimento-ferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ </div>
+
+  ##
 
  <div> 
-  <a href="https://www.linkedin.com/in/valeria-nascimento-ferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/valeria-ferreira/blob/output/github-contribution-grid-snake.svg)
-  
+ 
+![Snake animation](https://github.com/valeria-ferreira/valeria-ferreira/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
