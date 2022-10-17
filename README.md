@@ -1,4 +1,4 @@
-## Hi! My name is Valeria Ferreira.
+## Hi! My name is Valéria Ferreira.
 
 - 🔭 Apprentice full stack developer
 - 🌱 Studying Internet systems at Fatec Rubens Lara and systems development at Etec Dra. Ruth Cardoso.
