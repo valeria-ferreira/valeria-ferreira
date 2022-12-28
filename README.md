@@ -1,7 +1,8 @@
 ## Hi! My name is Valéria Ferreira.
 
-- 🔭 Fullstack developer
-- 🌱 Studying Internet systems at Fatec Rubens Lara and systems development at Etec Dra. Ruth Cardoso.
+- 🔭 Fullstack developer.
+- 🔭 Development systems technician at Etec Dra. Ruth Cardoso.
+- 🌱 Studying Internet systems at Fatec Rubens Lara.
 
 <div align="center">
   <a href="https://github.com/valeria-ferreira">
@@ -27,8 +28,8 @@
   
   <div align="right">
      <a href="https://www.linkedin.com/in/valeria-nascimento-ferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.behance.net/valeria-ferreira" target="_blank"><img height="40" width=40" src="https://cdn-icons-png.flaticon.com/512/3536/3536806.png" target="_blank"></a>  
-     <a href="https://dribbble.com/valeria-ferreira" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536685.png" target="_blank"></a>
+    <!--<a href="https://www.behance.net/valeria-ferreira" target="_blank"><img height="40" width=40" src="https://cdn-icons-png.flaticon.com/512/3536/3536806.png" target="_blank"></a>  
+     <a href="https://dribbble.com/valeria-ferreira" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536685.png" target="_blank"></a>-->
  </div>
 
   ##
