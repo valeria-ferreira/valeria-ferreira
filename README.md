@@ -1,8 +1,11 @@
-## Hi! My name is Valéria Ferreira.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF9CC3&vCenter=true&width=435&lines=Hey+you!+Welcome%F0%9F%92%99;My+name+is+Val%C3%A9ria+Ferreira;Here+you+will+find+some+of+my+work...)](https://git.io/typing-svg)
 
-- 🔭 Fullstack developer.
-- 🔭 Development systems technician at Etec Dra. Ruth Cardoso.
-- 🌱 Studying Internet systems at Fatec Rubens Lara.
+## 🚀 Sobre mim
+💻 Fullstack developer jr.
+
+🌱 Studying Internet systems at Fatec Rubens Lara.
+
+Hobbies: 📷 editar imagens, 🎥 vídeos e 💻 desing.
 
 <div align="center">
   <a href="https://github.com/valeria-ferreira">
