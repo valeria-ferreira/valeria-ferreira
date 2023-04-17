@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF9CC3&vCenter=true&width=435&lines=Hey+you!+Welcome%F0%9F%92%99;My+name+is+Val%C3%A9ria+Ferreira;Here+you+will+find+some+of+my+work...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF9CC3&vCenter=true&width=435&lines=Hey+you!+Welcome%F0%9F%92%99;My+name+is+Val%C3%A9ria+Ferreira)](https://git.io/typing-svg)
 
 ## 🚀 Sobre mim
 💻 Fullstack developer jr.
@@ -22,6 +22,7 @@ Hobbies: 📷 editar imagens, 🎥 vídeos e 💻 desing.
   
   <img align="center" alt="Desing-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
 </div>
+  
 <span align="right">
 
   ![valeria-ferreira](https://user-images.githubusercontent.com/89273671/195222481-6610aa8f-0b57-4196-94e7-6de05e7c4082.jpg)
