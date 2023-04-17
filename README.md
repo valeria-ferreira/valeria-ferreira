@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF9CC3&vCenter=true&width=435&lines=Hey+you!+Welcome%F0%9F%92%99;My+name+is+Val%C3%A9ria+Ferreira)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF9CC3&center=true&vCenter=true&width=435&lines=Hey+you!+Welcome%F0%9F%92%99;My+name+is+Val%C3%A9ria+Ferreira)](https://git.io/typing-svg)
 
 ## 🚀 Sobre mim
 💻 Fullstack developer jr.
