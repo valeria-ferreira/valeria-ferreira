@@ -7,6 +7,8 @@
 
 🌱 Studying Internet systems at Fatec Rubens Lara.
 
+💼 Full Stack intern on Fatec Rubens Lara's Web Team.
+
 Hobbies: 📷 editing images, 🎥 videos and 💻 desing.
 
 <hr>
