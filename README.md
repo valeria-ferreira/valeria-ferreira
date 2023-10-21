@@ -11,7 +11,7 @@
 
 💼 IT intern at Editora Brasileira.
 
-Hobbies: 📷 editing images, 🎥 videos and 💻 desing.
+Hobbies: 📷 editing images, 🎥 videos and 💻 design.
 
 <hr>
 
