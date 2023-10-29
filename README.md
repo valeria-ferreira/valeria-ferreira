@@ -3,7 +3,7 @@
 <hr>
 
 ## 🚀 Sobre mim
-💻 Fullstack developer jr.
+💻 Estagiária de Suporte Técnico e Desenvolvimento Back-end | Interessada em Negócios e Processos de TI
 
 🌱 Studying Internet systems at Fatec Rubens Lara.
 
