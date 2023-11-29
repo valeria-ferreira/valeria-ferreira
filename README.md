@@ -33,6 +33,7 @@ Hobbies: 📷 editing images, 🎥 videos and 💻 design.
   <img align="center" alt="marcacao-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
   <img align="center" alt="linguagem-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img align="center" alt="linguagem-Csharp" src="https://img.shields.io/badge/C%23-a4048f?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img align="center" alt="Desing-Figma" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="linguagem-mySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Desing-Figma" src="https://img.shields.io/badge/FIGMA-1cbcfc?style=for-the-badge&logo=figma&logoColor=ffffff">
 </div>
