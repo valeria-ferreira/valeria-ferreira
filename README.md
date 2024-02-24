@@ -9,7 +9,7 @@
 
 💼 Full Stack intern on Fatec Rubens Lara's Web Team.
 
-💼 IT intern at Editora Brasileira.
+💼 IT intern at Grupo Gelog.
 
 Hobbies: 📷 editing images, 🎥 videos and 💻 design.
 
