@@ -3,15 +3,13 @@
 <hr>
 
 ## 🚀 Sobre mim
-💻 Estagiária de Suporte Técnico e Desenvolvimento Back-end | Interessada em Negócios e Processos de TI
+💻 Estagiária de Suporte Técnico e Desenvolvimento | Interessada em Gestão de Projetos
 
 🌱 Studying Internet systems at Fatec Rubens Lara.
 
 💼 Full Stack intern on Fatec Rubens Lara's Web Team.
 
 💼 IT intern at Grupo Gelog.
-
-Hobbies: 📷 editing images, 🎥 videos and 💻 design.
 
 <hr>
 
@@ -32,10 +30,9 @@ Hobbies: 📷 editing images, 🎥 videos and 💻 design.
   <img align="center" alt="marcacao-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">        
   <img align="center" alt="marcacao-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
   <img align="center" alt="linguagem-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img align="center" alt="linguagem-Csharp" src="https://img.shields.io/badge/C%23-a4048f?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="linguagem-metodologia agil" src="https://img.shields.io/badge/Metodologia%20%C3%81gil-6aa84f?style=for-the-badge&logo=&logoColor=white">
     <img align="center" alt="Desing-Figma" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="linguagem-mySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Desing-Figma" src="https://img.shields.io/badge/FIGMA-1cbcfc?style=for-the-badge&logo=figma&logoColor=ffffff">
 </div>
   
   <hr>
@@ -50,8 +47,7 @@ Hobbies: 📷 editing images, 🎥 videos and 💻 design.
   <div align="right">
      <a href="https://www.linkedin.com/in/valeria-nascimento-ferreira" target="_blank"><img alt="link-linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="mailto:valeria.ferreira4cps@gmail.com" target="_blank"><img alt="link-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-    <!--<a href="https://www.behance.net/valeria-ferreira" target="_blank"><img height="40" width=40" src="https://cdn-icons-png.flaticon.com/512/3536/3536806.png" target="_blank"></a>  
-     <a href="https://dribbble.com/valeria-ferreira" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/3536/3536685.png" target="_blank"></a>-->
+
  </div>
 
   
